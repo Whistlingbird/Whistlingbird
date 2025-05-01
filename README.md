@@ -1,6 +1,11 @@
-## Hi there 👋
-
+## Проекты
 <!--
+🔹 [Прогноз оттока клиентов в банке](https://github.com/username/project1) — анализ данных, визуализация, модели классификации  
+🔹 [SQL-анализ для e-commerce](https://github.com/username/project2) — бизнес-запросы, агрегации, отчёты  
+🔹 [Интерактивный дашборд в Power BI](https://github.com/username/project3) — визуализация ключевых KPI  
+🔹 [Классификация текстов с помощью нейросети](https://github.com/username/project4) — NLP, модель на TensorFlow  
+
+
 **Whistlingbird/Whistlingbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
