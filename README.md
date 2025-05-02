@@ -1,4 +1,7 @@
-## Проекты
+## Projects
+
+🔹 [Customer Churn Prediction for a Telecom Provider](https://github.com/Whistlingbird/telecom-customer-churn) — data preparation, boosting models, business insights
+
 <!--
 🔹 [Прогноз оттока клиентов в банке](https://github.com/username/project1) — анализ данных, визуализация, модели классификации  
 🔹 [SQL-анализ для e-commerce](https://github.com/username/project2) — бизнес-запросы, агрегации, отчёты  
